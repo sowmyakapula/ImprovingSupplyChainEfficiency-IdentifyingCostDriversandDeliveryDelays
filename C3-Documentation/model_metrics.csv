@@ -1,0 +1,2 @@
+Model,Target Variable,Features Used,Best Hyperparameters,MAE,RMSE,R2,Cross Validation Score
+Tuned Random Forest,costs,All processed features,max_depth=None; min_samples_split=5; n_estimators=100,274.84410032822785,311.57605092038006,-0.4894965846825905,-0.19704842761262442
